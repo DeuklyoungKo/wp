@@ -8,13 +8,14 @@
  * @since Hestia 1.0
  */
 ?>
+
             <footer class="footer footer-black footer-big">
             	<div class="container">
             		<div class="hestia-bottom-footer-content">
                         <ul class="footer-menu pull-left">
                             <li class="page_item page-item-192 current_page_item">Copyright 2018 Deuklyoung Ko All rights reserved.</li>
                         </ul>
-            			<div class="copyright pull-right">
+            			<div class="copyright pull-center">
                             <ul class="list-inline social-buttons">
                               <li class="list-inline-item">
                                 <a href="https://www.linkedin.com/in/dgon/?locale=en_US" target="_blank">
